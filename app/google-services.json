@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386537414435",
+    "firebase_url": "https://ticketscanner-c8d29.firebaseio.com",
+    "project_id": "ticketscanner-c8d29",
+    "storage_bucket": "ticketscanner-c8d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386537414435:android:ae8f2b85f4b3b3c6",
+        "android_client_info": {
+          "package_name": "qrscanner.mobkini.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386537414435-uc5ncsgtpbpqkac23pklarferhk4v9ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qrscanner.mobkini.com",
+            "certificate_hash": "9da5b59b945eb4518b07740f2f5fa0f221c94788"
+          }
+        },
+        {
+          "client_id": "386537414435-nvfms674trde17k2msnhi9k06dgcl79r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIdii7Eqh_UIRtQTgOtjS5NAiDVVnU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386537414435-nvfms674trde17k2msnhi9k06dgcl79r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
